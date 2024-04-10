@@ -2,6 +2,7 @@
 # Random Joke Generator Extension 🫠
 
 Add this extension to your browser if you are bored
+Thanks to https://icanhazdadjoke.com for the API
 # 👀 Features
 
 - ✅ Simple to use (literary one button)
@@ -19,12 +20,12 @@ Add this extension to your browser if you are bored
 
 Since this extension is not on the Chrome Store, you have to install it manually.
 
-- 1. Download the extension as a ZIP file - **Code > Download ZIP**
-- 2. Extract the folder with the extension
-- 3. Open up `chrome://extensions` in your browser
-- 4. Turn on developer mode
-- 5. Click `Load unpacked` and select the extension folder
-- 6. Your extension should be installed in your browser
-- 7. Thats it! (you can pin it if you wanna)
+- Download the extension as a ZIP file - **Code > Download ZIP**
+- Extract the folder with the extension
+- Open up `chrome://extensions` in your browser
+- Turn on developer mode
+- Click `Load unpacked` and select the extension folder
+- Your extension should be installed in your browser
+- Thats it! (you can pin it if you wanna)
 
-### Thanks for your installations 
+### Thanks for your installations 😉
